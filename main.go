@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"O-Auth-Testing/wso2services/wso2requests"
+	"github.com/jakepeery/O-Auth-Testing/wso2services/wso2requests"
 	//"github.com/byuoitav/wso2services/wso2requests"
 )
 
