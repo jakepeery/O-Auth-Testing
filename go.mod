@@ -1,3 +1,3 @@
-module github.com/byuoitav/wso2services/wso2requests
+module github.com/jakepeery/O-Auth-Testing.git
 
 go 1.19
